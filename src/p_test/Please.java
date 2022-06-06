@@ -4,7 +4,9 @@ public class Please {
 
 	public static void main(String[] args) {
 		System.out.println("Please.. come on.. oh yeah!!");
-		//주석 다는 중 ㅎㅎ 앗싸 인제 좀 알겠다
+		//수 정 중 입 ㅣ니 다...
+		//다시 수정..
+		
 		
 	}
 
