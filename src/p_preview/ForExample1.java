@@ -13,7 +13,7 @@ public class ForExample1 {
 		
 		int j;
 		for (j=1; j<=10; j++) {
-			System.out.println("¾È³çÇÏ¼¼¿ä"+j);
+			System.out.println("¾È³çÇÏ»ï"+j);
 		}
 	}
 
